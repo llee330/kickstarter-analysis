@@ -12,12 +12,9 @@ Two analyses made in two new sheets; Outcomes Based on Goals and Outcomes Based 
 
 ### Screenshot of “Outcomes Based on Goals”
 https://github.com/llee330/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Goals.png
-
-• The most successful Kickstarter campaigns has goal set less than $1000.
-
-• The higher the monetary goals, the higher failed rate presented. It is best to stay "conservative" and remain at lower set goals.
-
-• For goals set at 35000 to 44999, successful rate is somewhat higher. A launched date should be researched to further see the pattern of data to find out the reason of having higher set goals and higher successful rates.
+1.	The most successful Kickstarter campaigns has goal set less than $1000.
+2.	The higher the monetary goals, the higher failed rate presented. It is best to stay "conservative" and remain at lower set goals.
+3.	For goals set at 35000 to 44999, successful rate is somewhat higher. A launched date should be researched to further see the pattern of data to find out the reason of having higher set goals and higher successful rates.
 
 Limitations:-
 This dataset is based on the range of fundraising goal on plays and has not indicated the dates when these projects were being held. The month of the year might affect successful and failed rate. 
@@ -28,14 +25,10 @@ I suggest additional tables for the launched date based on months in the past ye
 
 ### Screenshot of “Outcomes Based on Launch Date” 
 https://github.com/llee330/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date.png
-
-• There were many successful Kickstarter campaigns in May and June for theater.  
-
-• December might not be a great time to launch a theater campaign due to the lowest successful cases at this month. 
-
-• The month of May also has the highest failed theatre campaigns, it might be due to the highest counts at this month. A chart for percentage of failed and successful should be plotted.
-
-• As it progressed through the subsequent months from May, successful campaigns reduced. 
+1.	There were many successful Kickstarter campaigns in May and June for theater.  
+2.	December might not be a great time to launch a theater campaign due to the lowest successful cases at this month. 
+3.	The month of May also has the highest failed theatre campaigns, it might be due to the highest counts at this month. A chart for percentage of failed and successful should be plotted.
+4.	As it progressed through the subsequent months from May, successful campaigns reduced.
 
 Limitations:-
 1. Unable to draw conclusion on percentage of successful and failed based on this chart. 
